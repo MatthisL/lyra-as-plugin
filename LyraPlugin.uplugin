@@ -77,7 +77,13 @@
 			"Name": "UIExtension",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "LyraEditor",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
 		}
+		
 	],
 	"Plugins": [
 		{
